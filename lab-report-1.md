@@ -5,7 +5,7 @@
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Installing%20VScode.png)
 
 * Remotely Connecting
-> In order to remotely connect, I logged in the the lab computer from my laptop by using VS Code's remote host feature. 
+> I first installed OpenSSH. Then, in order to remotely connect, I logged in the the lab computer from my laptop by using VS Code's remote host feature. 
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-01%20at%2010.29.01%20AM.png)
 
 
