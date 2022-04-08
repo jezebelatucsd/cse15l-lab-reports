@@ -21,10 +21,10 @@
 
 * Installing VScode
 > 2-3 sentences or bullet points describing what you did
-![Image](http://url/a.png)
+![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-08%20at%2011.59.49%20AM.png)
 
 
 * Installing VScode
 > 2-3 sentences or bullet points describing what you did
-![Image](http://url/a.png)
+![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-08%20at%2011.40.38%20AM.png)
 
