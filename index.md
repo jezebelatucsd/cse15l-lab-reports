@@ -7,10 +7,14 @@
 
 [LinkedIn] (https://www.linkedin.com/in/jezebelyangari)
 
+```
+this image is not working
+```
+
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpatch.com%2Fcalifornia%2Fsan-diego%2Fucsd-launch-celebration-50th-anniversary-geisel-library&psig=AOvVaw1kddPATIIEQkhle12iRKXH&ust=1649524942371000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDjlrf9hPcCFQAAAAAdAAAAABAD)
 
 > blah blah blah
-
+> more additions
 * A
 * B
 * C
