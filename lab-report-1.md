@@ -28,3 +28,4 @@
 > At end of an **ssh** command, write a command in quotation marks to directly run it on the remote server, then use exit command or Ctrl+D. One line consisted of running and compiling the WhereAmI.java file.
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-08%20at%2011.40.38%20AM.png)
 
+References: Lab 1 Write Up
