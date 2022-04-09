@@ -5,17 +5,18 @@
 ![Image](Installing%20VScode.png)
 
 * 2) Remotely Connecting
-> I then installed OpenSSH. Then, in order to remotely connect, I logged in the the lab computer from my laptop by using VS Code's remote host feature. 
+> Install OpenSSH. Then, in order to remotely connect, log in the the lab computer from your laptop by using VS Code's remote host feature with the **ssh** command + your ieng6 account address. When prompted enter password.
 ![Image](Screen%20Shot%202022-04-01%20at%2010.29.01%20AM.png)
 
 
 * 3) Trying Some Commands
-> I ran the commands ls -a and ls. The **ls -a** command opening the list of the current directory and hidden files. The **ls** command shows files and sub directories in the directory I was currently in.
+> I personally ran the commands ls -a and ls to test out. The **ls -a** command opening the list of the current directory and hidden files. The **ls** command shows files and sub directories in the directory I was currently in.
 ![Image](Screen%20Shot%202022-04-08%20at%2011.35.38%20AM.png)
 
 
 * 4) Moving Files with scp
-> Here is used the **scp** command to move files in my computer to a remote one. This step was done after using the **exit** command to log out of my ieng6.
+> Use the **exit** command to log out of my ieng6. Here the **scp** command is used to move files in my computer to a remote one. For example, type _scp <FILE NAME>.java <username>@ieng6.ucsd.edu:~/_ .
+
 ![Image](Screen%20Shot%202022-04-08%20at%2011.36.52%20AM.png)
 
 
