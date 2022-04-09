@@ -1,11 +1,11 @@
 # Lab Report 1 by Jezebel Yangari
 
 * Installing VScode
-> This is a step I had already done for CSE: 8B. I do not need to repeat this step. 
+> Make sure to install VSCode onto computer. This should be done before starting. 
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Installing%20VScode.png)
 
 * Remotely Connecting
-> I first installed OpenSSH. Then, in order to remotely connect, I logged in the the lab computer from my laptop by using VS Code's remote host feature. 
+> I then installed OpenSSH. Then, in order to remotely connect, I logged in the the lab computer from my laptop by using VS Code's remote host feature. 
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-01%20at%2010.29.01%20AM.png)
 
 
@@ -25,6 +25,6 @@
 
 
 * Optimizing Remote Running
-> Used key strokes as possible to run the program as few. One line consisted of running and compiling the WhereAmI.java file.
+> At end of an **ssh** command, write a command in quotation marks to directly run it on the remote server, then use exit command or Ctrl+D. One line consisted of running and compiling the WhereAmI.java file.
 ![Image](https://github.com/jezebelatucsd/cse15l-lab-reports/blob/main/Screen%20Shot%202022-04-08%20at%2011.40.38%20AM.png)
 
