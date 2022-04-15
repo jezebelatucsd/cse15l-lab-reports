@@ -15,7 +15,7 @@
 
 
 ## 4) Moving Files with scp
-> Use the `exit` command to log out of my ieng6. Here the `scp` command is used to move files in my computer to a remote one. For example, type _scp <FILE NAME>.java <username>@ieng6.ucsd.edu:~/_ .
+> Use the `exit` command to log out of my ieng6. Here the `scp` command is used to move files in my computer to a remote one. For example, type `_scp <FILE NAME>.java <username>@ieng6.ucsd.edu:~/_` .
 ![Image](Screen%20Shot%202022-04-08%20at%2011.36.52%20AM.png)
 
 
