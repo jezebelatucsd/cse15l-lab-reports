@@ -5,7 +5,6 @@
 ![Image](lab2_infiniteloop.png)
 
 ## failure-inducing inputs
-> Make sure to install VSCode onto computer. This should be done before starting. 
 >Image 1 Changes
 ![Image](full_lab2_4.png)
 >Image 2 Changes
