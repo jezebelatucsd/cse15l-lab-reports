@@ -1,7 +1,7 @@
 # Lab Report 2 by Jezebel Yangari
 
 ## Symptom Brought by All Chnages/Inputs, Infinite Loop
-> Here I used `control + C` to stop it from running.
+> Here I used `control + C` to stop it from running. This was our key identifier that told us we had not yet caught the error in the "MarkdownParse.java" file.
 ![Image](lab2_infiniteloop.png)
 
 ## failure-inducing inputs
