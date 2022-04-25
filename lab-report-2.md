@@ -20,7 +20,7 @@
 ## Chnage 3:
 > Adding a `for Loop` to break when open parentheses and close paratheses are hit.
 > The reasoning was the same for the previous chnages that were made.
-> > We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets and parentheses. 
+> > We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets and parentheses. The `-1` in all f the for loops is to catch if the `[]` or `()` are at the end which is the overall issue.
 
 ![Image](full_lab2_2.png)
 
