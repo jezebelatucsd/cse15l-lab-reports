@@ -1,6 +1,6 @@
 # Lab Report 2 by Jezebel Yangari
 
-## Full Screan Shot of Changes 
+## Full Screen Shot of Changes 
 ![Image](full_lab2.png)
 
 ## 1) Installing VScode
