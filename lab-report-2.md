@@ -14,11 +14,13 @@
 ## Change 1/2: 
 > Adding a for Loop to break when open brakcet and close bracket are hit.
 > If those brackets are at the end of the input, then it would break.
-> We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets. 
 ![Image](full_lab2_1.png)
 
 ## Chnage 3:
-> Make sure to install VSCode onto computer. This should be done before starting. 
+> Adding a for Loop to break when open parentheses and close paratheses are hit.
+> The reasoning was the same for the previous chnages that were made.
+> > We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets and parentheses. 
+
 ![Image](full_lab2_2.png)
 
 
