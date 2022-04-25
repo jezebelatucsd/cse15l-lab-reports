@@ -10,6 +10,8 @@
 ## Symptom Brought by All Chnages/Inputs, Infinite Loop
 > The infinite loop was the major symptom that we cam eacross. Here I used `control + C` to stop it from running. This was our key identifier that told us we had not yet caught the error in the "MarkdownParse.java" file.
 ![Image](lab2_infiniteloop.png)
+[link](https://github.com/ItsTheOneAJ/markdown-parser/blob/main/testTwo.md)
+
 
 ## Change 1/2: 
 > Adding a for Loop to break when open brakcet and close bracket are hit.
