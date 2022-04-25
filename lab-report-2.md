@@ -1,8 +1,5 @@
 # Lab Report 2 by Jezebel Yangari
 
-## Full Screen Shot of Changes 
-![Image](full_lab2.png)
-
 ## Symptom Brought by All Chnages/Inputs, Infinite Loop
 > Here I used `control + C` to stop it from running.
 ![Image](lab2_infiniteloop.png)
