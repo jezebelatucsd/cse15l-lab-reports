@@ -26,7 +26,11 @@
 
 ![Image](full_lab2_2.png)
 
-
+##1) First Error
+> code change 1 screenshot: 
+![Image](full_lab2_1.png)
+- failure inducing input: [link 1](https://github.com/ItsTheOneAJ/markdown-parser/blob/main/testTwo-copy.md)
+- relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The code did not take into account that ther might not be a bracket which was triggered by the input and caused the wrong output.
 
 
 
