@@ -25,6 +25,5 @@
 - relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The idea was maybe that if the parentheses and brackets was there, it would be okay, so we break if there was not one. We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets and parentheses. The `-1` in all f the for loops is to catch if the `[]` or `()` are at the end which is the overall issue.
 
 
-
 ..https://github.com/ItsTheOneAJ/cse15l-lab-reports/blob/main/Lab-report-2.md
 
