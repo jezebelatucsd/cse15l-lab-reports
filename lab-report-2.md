@@ -20,7 +20,8 @@
 > code change 3 screenshot: 
 ![Image](full_lab2.png)
 - failure inducing input: [link 3](https://github.com/ItsTheOneAJ/markdown-parser/blob/da4b5aab32b90e930e8210f631aabaf29147fe53/testTwo.md)
-- symptom: ![Image](Screen Shot 2022-05-02 at 12.08.54 PM.png)
+- symptom: 
+![Image](Screen Shot 2022-05-02 at 12.08.54 PM.png)
 - relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The idea was maybe that if the parentheses and brackets was there, it would be okay, so we break if there was not one. We concluded that the reason there was an infinite loop was because the condition of the link ending was never met with repeated brackets and parentheses. The `-1` in all f the for loops is to catch if the `[]` or `()` are at the end which is the overall issue.
 
 
