@@ -33,5 +33,12 @@
 - symptom: ![Image](lab2_infiniteloop.png)
 - relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The code did not take into account that ther might not be a bracket which was triggered by the input and caused the wrong output.
 
+##2) Second Error
+> code change 2 screenshot: 
+![Image](full_lab2_2.png)
+- failure inducing input: [link 1](https://github.com/ItsTheOneAJ/markdown-parser/blob/main/testTwo-copy.md)
+- symptom: ![Image](lab2_infiniteloop.png)
+- relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The code did not take into account that ther might not be a bracket which was triggered by the input and caused the wrong output.
+
 ..https://github.com/ItsTheOneAJ/cse15l-lab-reports/blob/main/Lab-report-2.md
 
