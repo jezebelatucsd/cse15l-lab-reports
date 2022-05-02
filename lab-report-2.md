@@ -1,4 +1,6 @@
 # Lab Report 2 by Jezebel Yangari
+> "SIDE NOTE:" I am currrently having issues with the the tasks that were completed during this lab. There were issues with forking and merging branches, which led me to not be able to clone the repo of my partner. I have been in contact with tutors and TAs to fix this issue. They unfortunately could not fix it up to this point. I will be attend office hours this week to address it with more time. Some of my links and screenshots are from my partner. This is the reason why. I did my best for this resubmission.
+> 
 ## 1. First Error
 > code change 1 screenshot: 
 ![Image](full_lab2_1.png)
