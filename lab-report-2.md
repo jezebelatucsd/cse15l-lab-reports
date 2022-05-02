@@ -1,6 +1,5 @@
 # Lab Report 2 by Jezebel Yangari
-
-##1) First Error
+## 1. First Error
 > code change 1 screenshot: 
 ![Image](full_lab2_1.png)
 - failure inducing input: [link 1](https://github.com/ItsTheOneAJ/markdown-parser/blob/main/testTwo-copy.md)
@@ -9,7 +8,7 @@
 - symptom: ![Image](lab2_infiniteloop.png)
 - relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The code did not take into account that ther might not be a bracket which was triggered by the input and caused the wrong output. The infinite loop was the major symptom that we cam eacross. Here I used `control + C` to stop it from running. This was our key identifier that told us we had not yet caught the error in the "MarkdownParse.java" file.
 
-##2) Second Error
+## 2. Second Error
 > code change 2 screenshot: 
 ![Image](full_lab2_2.png)
 - failure inducing input: [link 2](https://github.com/ItsTheOneAJ/markdown-parser/blob/main/testTwo-copy.md)
@@ -17,7 +16,7 @@
 - symptom: ![Image](lab2_infiniteloop.png)
 - relationship: The code kept looking for brackets that were not there which is why we got an infinite loop. The idea was maybe that if the parentheses was there, it would be okay, so we break if there was not one. 
 
-##3) Third Error
+## 3. Third Error
 > code change 3 screenshot: 
 ![Image](full_lab2.png)
 - failure inducing input: [link 3](https://github.com/ItsTheOneAJ/markdown-parser/blob/da4b5aab32b90e930e8210f631aabaf29147fe53/testTwo.md)
