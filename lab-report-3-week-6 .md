@@ -8,7 +8,7 @@
 
 >Show an `scp` command copying a file to your account using just the alias you chose.
 
-- **descript:**
+- **description:**
 
 
 ## Setup Github Access from ieng6
@@ -20,7 +20,7 @@
 
 >Show a link for the resulting commit.
 
-- **descript:**
+- **description:**
 
 
 
@@ -31,4 +31,4 @@
 
 >Show (like in the last step of the first lab) combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
 
-- **descript:**
+- **description:**
