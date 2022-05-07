@@ -2,11 +2,13 @@
 
 ## Streamlining ssh Configuration
 >Show your `.ssh/config file`, and how you edited it (with VScode, another program, etc)
+![image](lr3_ssh_alias_login.png)
 
 >Show the `ssh` command logging you into your account using just the alias you chose.
-
+![image](lr3_scp_r.png)
 
 >Show an `scp` command copying a file to your account using just the alias you chose.
+![image](lr3_edited_config.png)
 
 - **description:**
 
