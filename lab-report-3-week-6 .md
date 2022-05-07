@@ -10,7 +10,7 @@
 >Show an `scp` command copying a file to your account using just the alias you chose.
 ![image](lr3_edited_config.png)
 
-- **description:**
+- **description:** This option creates a shortcut for logging into the ieng6 account. It also allows you to choose the shorthand alias to be implemented. This is another way to avoid having to type out the username and password for every log in.
 
 
 ## Setup Github Access from ieng6
