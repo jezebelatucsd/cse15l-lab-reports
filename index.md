@@ -1,4 +1,4 @@
-# Hello, 
+# Indez
 ## I'm Jezebel.
 
 *I am a first year computer science major.*
@@ -7,11 +7,13 @@
 
 [LinkedIn] (https://www.linkedin.com/in/jezebelyangari)
 
-```
-this image is not working
-```
+[Lab Report 1] (https://jezebelatucsd.github.io/cse15l-lab-reports/lab-report-3-week-6)
+[Lab Report 2] (https://jezebelatucsd.github.io/cse15l-lab-reports/lab-report-2)
+[Lab Report 3] (https://jezebelatucsd.github.io/cse15l-lab-reports/lab-report-1)
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpatch.com%2Fcalifornia%2Fsan-diego%2Fucsd-launch-celebration-50th-anniversary-geisel-library&psig=AOvVaw1kddPATIIEQkhle12iRKXH&ust=1649524942371000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDjlrf9hPcCFQAAAAAdAAAAABAD)
+
+
+
 
 > blah blah blah
 > more additions
