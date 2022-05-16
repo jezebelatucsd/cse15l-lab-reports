@@ -40,4 +40,13 @@
 >Show (like in the last step of the first lab) combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line.
 <img width="691" alt="Screen Shot 2022-05-07 at 1 47 01 PM" src="https://user-images.githubusercontent.com/103277481/167271179-a625dd04-d184-4656-82d2-96bd21ca670a.png">
 
+>git add
+<img width="693" alt="Screen Shot 2022-05-06 at 8 25 51 PM" src="https://user-images.githubusercontent.com/103277481/168670303-de771b6f-330f-444f-be56-f4119c0e9114.png">
+
+>git push
+<img width="867" alt="Screen Shot 2022-05-07 at 9 24 57 AM" src="https://user-images.githubusercontent.com/103277481/168670133-6fae181d-1c60-44be-b74a-21eac15ca6db.png">
+
+
+
+
 - **description:** After being able to log in to GitHub through the ieng6 account, now we needed the repository. To do this a similar method for running and compiling was done from lab 1. This was  check if the copy had worked. The entire repo was copied not just invidual files.
