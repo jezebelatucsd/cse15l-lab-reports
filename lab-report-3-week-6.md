@@ -24,6 +24,7 @@
 <img width="807" alt="Screen Shot 2022-05-07 at 9 30 30 AM" src="https://user-images.githubusercontent.com/103277481/167263341-6dbc0518-44ef-467a-8868-ba846d079e5f.png">
 
 >Show a link for the resulting commit.
+>[RESULTING COMMIT LINK](https://github.com/jezebelatucsd/markdown-parser/commit/b640e20afdfa63b524b1b0ce207824b491ec94ab)
 <img width="858" alt="Screen Shot 2022-05-07 at 9 34 19 AM" src="https://user-images.githubusercontent.com/103277481/167263477-a53c5a1b-76e7-4f82-b579-0780f2f2d0e8.png">
 
 - **description:** Here we added an SSH Key for the course specific account. This is so less logging in is needed to be done and the process can be much quicker.
