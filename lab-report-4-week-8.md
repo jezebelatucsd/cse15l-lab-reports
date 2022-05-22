@@ -15,6 +15,8 @@
 
 
 - For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+<img width="969" alt="Screen Shot 2022-05-21 at 9 25 27 PM" src="https://user-images.githubusercontent.com/103277481/169679497-2d5357f6-aa2a-4d04-8f8f-2df74fb0f676.png">
+
 
 - For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
