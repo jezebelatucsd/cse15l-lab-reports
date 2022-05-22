@@ -13,19 +13,22 @@
 
 
 - For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-<img width="969" alt="Screen Shot 2022-05-21 at 9 25 27 PM" src="https://user-images.githubusercontent.com/103277481/169678588-e3abd449-e7cd-487d-8d66-59e840908e2d.png">
-
 
 - For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-
+<img width="969" alt="Screen Shot 2022-05-21 at 9 25 27 PM" src="https://user-images.githubusercontent.com/103277481/169678588-e3abd449-e7cd-487d-8d66-59e840908e2d.png">
 
 ## Answer the following questions with 2-3 sentences each:
-- Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+> The issue with snippet 1 may lie in the back ticks that are scattere throughout. There might also have be if statements added to account for back ticks.
 
-- Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
-- Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+> The issue with snippet 2 may lie in the extra paretheses and bracks that are scattered throughout. There might also have be if statements added to account for these issues.
+
+
+3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+> The issue with snippet 1 may lie in the extra paretheses and bracks that are scattered throughout. There might also have be if statements added to account for these issues.
 
 ## If your code already works on some/all test cases, include an explanation of what were the code changes that allowed the tests to pass.
 
