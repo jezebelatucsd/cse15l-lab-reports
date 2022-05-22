@@ -9,9 +9,11 @@
 
 
 - Showing the code in MarkdownParseTest.java for how you turned it into a test
+<img width="682" alt="Screen Shot 2022-05-21 at 9 16 21 PM" src="https://user-images.githubusercontent.com/103277481/169678526-90824abe-b5d2-4aed-8f05-a33650b0ed81.png">
 
 
 - For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+<img width="969" alt="Screen Shot 2022-05-21 at 9 25 27 PM" src="https://user-images.githubusercontent.com/103277481/169678588-e3abd449-e7cd-487d-8d66-59e840908e2d.png">
 
 
 - For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
