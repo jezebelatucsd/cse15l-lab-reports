@@ -2,6 +2,8 @@
 
 ## A link to your markdown-parse repository and a link to the one you reviewed in week 7
 >[my repo](https://github.com/aaronchan32/markdown-parser)
+
+
 >[their repo](https://github.com/httrieu/markdown-parser)
 
 ## For each test above:
@@ -28,7 +30,7 @@
 
 
 3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
-> The issue with snippet 1 may lie in the extra paretheses and bracks that are scattered throughout. There might also have be if statements added to account for these issues.
+> The issue with snippet 3 may lie in the incomplete link implementation throught and the new lines added that are scattered throughout. There might have to be if statements added to account for these issues like new lines and all there might have to be chnages to the md file it self.
 
 ## If your code already works on some/all test cases, include an explanation of what were the code changes that allowed the tests to pass.
 
