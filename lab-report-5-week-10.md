@@ -16,5 +16,6 @@
 
 ## For each test:
 > Describe which implementation is correct, or neither if both give the wrong output
+
 > Indicate both actual outputs (provide screenshots) and also what the expected output is (list the links that are expected in the output).
 
