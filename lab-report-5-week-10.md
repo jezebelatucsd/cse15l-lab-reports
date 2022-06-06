@@ -1,8 +1,8 @@
 # Lab Report 5 by Jezebel Yangari
 
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
-
-- Showing the code in MarkdownParseTest.java for how you turned it into a test
+<img width="1389" alt="Screen Shot 2022-06-05 at 7 10 34 PM" src="https://user-images.githubusercontent.com/103277481/172083145-9b4bd955-6970-4442-a675-73aae7ca4d0b.png">
+<img width="1364" alt="Screen Shot 2022-06-05 at 7 12 09 PM" src="https://user-images.githubusercontent.com/103277481/172083284-36679585-035e-4934-b6be-d4052a9150ee.png">
 
 
 ## Provide a link to the test-file with different-results (in the provided repository or your repository , either is fine)
