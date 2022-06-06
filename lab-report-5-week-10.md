@@ -5,16 +5,19 @@
 <img width="1380" alt="Screen Shot 2022-06-05 at 9 59 18 PM" src="https://user-images.githubusercontent.com/103277481/172097650-d8ca7c73-f769-4465-8417-e7f4d2ad5f78.png">
 
 ## Provide a link to the test-file with different-results (in the provided repository or your repository , either is fine)
-> answer: [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/200.md)
+> answer: other repo [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/200.md)
 
 ### For each test:
 ## Describe which implementation is correct, or neither if both give the wrong output
-> answer:
-## Indicate both actual outputs (provide screenshots) and also what the expected output is (list the links that are expected in the output).
-> answer:
+> answer: My implementation is correct because it does not print "url".
 
 ## Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site. 
-> answer:
+> answer: 
+> their repo
+<img width="1212" alt="Screen Shot 2022-06-05 at 10 20 28 PM" src="https://user-images.githubusercontent.com/103277481/172099648-68180049-6ca6-416b-b4cb-633bb053261c.png">
+> my repo:
+<img width="1207" alt="Screen Shot 2022-06-05 at 10 24 31 PM" src="https://user-images.githubusercontent.com/103277481/172100029-e529b932-a65e-451a-9b8b-7de9cb5fbf2d.png">
 
 ## For the implementation that’s not correct (or choose one if both are incorrect), describe the bug (the problem in the code) in about 2-3 sentences. You don’t have to provide a fix, but you should be specific about what is wrong with the program, and show the code that should be fixed (Provide a screenshot of code and highlight where the change needs to be made).
-> answer:
+> answer: More conditions likely need to be added for the proper output to occur. The output in the preview seems to be the same for both.
+<img width="864" alt="Screen Shot 2022-06-05 at 10 25 28 PM" src="https://user-images.githubusercontent.com/103277481/172100123-370324e7-240c-40b7-9f69-7c90a353c338.png">
