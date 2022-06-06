@@ -6,6 +6,7 @@
 
 >[their repo](https://github.com/httrieu/markdown-parser)
 
-## For each test above:
+## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
+
 - Showing the code in MarkdownParseTest.java for how you turned it into a test
 <img width="682" alt="Screen Shot 2022-05-21 at 9 16 21 PM" src="https://user-images.githubusercontent.com/103277481/169678526-90824abe-b5d2-4aed-8f05-a33650b0ed81.png">
