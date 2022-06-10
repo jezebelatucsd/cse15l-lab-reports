@@ -1,20 +1,20 @@
 # Lab Report 5 by Jezebel Yangari
 
-## Provides correct description of how mismatch in outputs was identified
-## Correct markdown formatting.
-## Lab report is on its own page, not the index page.
+> Provides correct description of how mismatch in outputs was identified
+> Correct markdown formatting.
+> Lab report is on its own page, not the index page.
+
 ## Test File 1
+### Describes which implementation is correct
+### Shows actual output and the expected output
+### Provides correct description of the bug
+### Provides code snippet that needs to be changed
 
-## Describes which implementation is correct
-## Shows actual output and the expected output
-## Provides correct description of the bug
-## Provides code snippet that needs to be changed
 ## Test File 2
-
-## Describes which implementation is correct
-## Shows actual output and the expected output
-## Provides correct description of the bug
-## Provides code snippet that needs to be changed
+### Describes which implementation is correct
+### Shows actual output and the expected output
+### Provides correct description of the bug
+### Provides code snippet that needs to be changed
 
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
 > vimdiff
