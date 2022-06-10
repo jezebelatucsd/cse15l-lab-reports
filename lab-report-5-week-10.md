@@ -1,5 +1,21 @@
 # Lab Report 5 by Jezebel Yangari
 
+## Provides correct description of how mismatch in outputs was identified
+## Correct markdown formatting.
+## Lab report is on its own page, not the index page.
+## Test File 1
+
+## Describes which implementation is correct
+## Shows actual output and the expected output
+## Provides correct description of the bug
+## Provides code snippet that needs to be changed
+## Test File 2
+
+## Describes which implementation is correct
+## Shows actual output and the expected output
+## Provides correct description of the bug
+## Provides code snippet that needs to be changed
+
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
 > vimdiff
 <img width="1380" alt="Screen Shot 2022-06-05 at 9 59 18 PM" src="https://user-images.githubusercontent.com/103277481/172097650-d8ca7c73-f769-4465-8417-e7f4d2ad5f78.png">
