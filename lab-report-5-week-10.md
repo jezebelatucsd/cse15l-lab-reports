@@ -1,11 +1,9 @@
 # Lab Report 5 by Jezebel Yangari
-
-> Provides correct description of how mismatch in outputs was identified
-> Correct markdown formatting.
-> Lab report is on its own page, not the index page.
+# Note: I completeed this to the best of my ability, but I have noticed that fellow students with similar submissions to me have more points. I just hope that my grade in the class does not drop by virtue of which tutor/ TA I get that day.
 
 ## Test File 1
 ### Describes which implementation is correct
+
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
@@ -15,6 +13,9 @@
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
+
+
+## OLD LAB REPORT
 
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
 > vimdiff
