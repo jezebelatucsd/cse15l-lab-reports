@@ -10,7 +10,7 @@
 
 ### Describes which implementation is correct
 > Both implementations are incorrect (in the above screenshot, on 201 md). 
-* My ouput according to preview:
+* My ouput according to preview 1:
 <img width="1144" alt="Screen Shot 2022-06-10 at 6 16 50 PM" src="https://user-images.githubusercontent.com/103277481/173167081-2bd54fae-403a-47d8-bd27-68dcbce2025b.png">
 * My ouput according to running the file 1:
 <img width="1046" alt="Screen Shot 2022-06-10 at 6 38 48 PM" src="https://user-images.githubusercontent.com/103277481/173167791-4c530c58-cb93-4f18-9c6a-491fccd6373a.png">
@@ -18,6 +18,10 @@
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
+
+<img width="800" alt="Screen Shot 2022-06-10 at 6 49 55 PM" src="https://user-images.githubusercontent.com/103277481/173168080-f0a20663-d1ef-41fe-a50c-78e0fc63584f.png">
+<img width="797" alt="Screen Shot 2022-06-10 at 6 50 32 PM" src="https://user-images.githubusercontent.com/103277481/173168098-11478ab8-364e-4081-b892-3a69de9fc500.png">
+
 
 ## Test File 2: 194.md
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
