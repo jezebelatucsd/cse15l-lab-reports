@@ -18,6 +18,7 @@
 * THEIR ouput according to running 1:
 <img width="800" alt="Screen Shot 2022-06-10 at 6 49 55 PM" src="https://user-images.githubusercontent.com/103277481/173168080-f0a20663-d1ef-41fe-a50c-78e0fc63584f.png">
 ### Provides correct description of the bug
+* The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
 ### Provides code snippet that needs to be changed
 > Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
 <img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
@@ -26,8 +27,9 @@
 ## Test File 2: 194.md
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
 ### Describes which implementation is correct
-### Shows actual output and the expected output
+> Both implementations are incorrect (in the above screenshot, on 201 md). 
 ### Provides correct description of the bug
+* The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
 ### Provides code snippet that needs to be changed
 >Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
 <img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
