@@ -5,10 +5,11 @@
 > answer: other repo [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ### Describes which implementation is correct
-> Both implementations are incorrect (in the above screenshot, on l201 md). The correct output should look like this: [ti\*tle], because markdown shows this: [foo](/bar\* "ti\*tle").
+> Both implementations are incorrect (in the above screenshot, on 201 md). The correct output should look like this: [ti\*tle], because markdown shows this: [foo](/bar\* "ti\*tle").
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
+<img width="1144" alt="Screen Shot 2022-06-10 at 6 16 50 PM" src="https://user-images.githubusercontent.com/103277481/173167081-2bd54fae-403a-47d8-bd27-68dcbce2025b.png">
 
 ## Test File 2
 ### Describes which implementation is correct
