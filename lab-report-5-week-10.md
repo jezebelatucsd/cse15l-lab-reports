@@ -2,7 +2,7 @@
 # Note: I completeed this to the best of my ability, but I have noticed that fellow students with similar submissions to me have more points. I just hope that my grade in the class does not drop by virtue of which tutor/ TA I get that day.
 
 ## Test File 1: 201.md
-> answer: other repo [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
+> other repo [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ### Describes which implementation is correct
 > Both implementations are incorrect (in the above screenshot, on 201 md). The correct output should look like this: [ti\*tle], because markdown shows this: [foo](/bar\* "ti\*tle").
@@ -18,6 +18,7 @@
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
+<img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
 
 
 ## OLD LAB REPORT
