@@ -56,6 +56,9 @@
 
 <img width="797" alt="Screen Shot 2022-06-10 at 6 50 32 PM" src="https://user-images.githubusercontent.com/103277481/173168098-11478ab8-364e-4081-b892-3a69de9fc500.png">
 
+## CHANGES THAT I WOULD MAKE TO BOTH MY REPO AND THEIR REPO
+> I would add if statements to my code that catch more exceptions and therefore make the bug catching easier. These files were difficult becuase the exceptions that were thrown are not easy to tackle. I would also add more if statements for edge cases.
+
 ##  ---------- OLD LAB REPORT ----------
 
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
