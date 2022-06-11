@@ -19,7 +19,8 @@
 <img width="800" alt="Screen Shot 2022-06-10 at 6 49 55 PM" src="https://user-images.githubusercontent.com/103277481/173168080-f0a20663-d1ef-41fe-a50c-78e0fc63584f.png">
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
-
+> Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
+<img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
 
 
 ## Test File 2: 194.md
@@ -28,6 +29,9 @@
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
+>Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
+<img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
+
 
 * My ouput according to preview 2:
 <img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
