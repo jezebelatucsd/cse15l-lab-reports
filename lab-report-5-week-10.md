@@ -1,5 +1,4 @@
 # Lab Report 5 by Jezebel Yangari
-# Note: I completed this to the best of my ability, but I have noticed that fellow students with submissions similar or even less info than me have more points. I just hope that my grade in the class does not drop by virtue of who is grading my report that day.
 
 * I searched through the results manually in order to find the different outputs.
 
