@@ -22,7 +22,7 @@
 ### Provides correct description of the bug
 
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
-* 
+
 ### Provides code snippet that needs to be changed
 
 > Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
@@ -46,10 +46,14 @@
 <img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
 
 * My ouput according to preview 2:
+
 <img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
+
 * My ouput according to running the file 2:
 <img width="1057" alt="Screen Shot 2022-06-10 at 6 39 52 PM" src="https://user-images.githubusercontent.com/103277481/173167825-dd1298f2-b1e5-4e9b-a658-59b66393014e.png">
+
 * THEIR ouput according to running 2:
+
 <img width="797" alt="Screen Shot 2022-06-10 at 6 50 32 PM" src="https://user-images.githubusercontent.com/103277481/173168098-11478ab8-364e-4081-b892-3a69de9fc500.png">
 
 ##  ---------- OLD LAB REPORT ----------
