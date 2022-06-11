@@ -18,9 +18,13 @@
 <img width="1046" alt="Screen Shot 2022-06-10 at 6 38 48 PM" src="https://user-images.githubusercontent.com/103277481/173167791-4c530c58-cb93-4f18-9c6a-491fccd6373a.png">
 * THEIR ouput according to running 1:
 <img width="800" alt="Screen Shot 2022-06-10 at 6 49 55 PM" src="https://user-images.githubusercontent.com/103277481/173168080-f0a20663-d1ef-41fe-a50c-78e0fc63584f.png">
+
 ### Provides correct description of the bug
+
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
+* 
 ### Provides code snippet that needs to be changed
+
 > Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
 <img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
 
