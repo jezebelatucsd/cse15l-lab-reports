@@ -23,6 +23,9 @@
 
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
 
+### Correct output 
+> 'my_(url)'
+
 ### Provides code snippet that needs to be changed
 
 > Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
@@ -38,7 +41,8 @@
 > Both implementations are incorrect (in the above screenshot, on 201 md). 
 ### Provides correct description of the bug
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
-
+### Correct output 
+> '(baz)'
 
 ### Provides code snippet that needs to be changed
 
