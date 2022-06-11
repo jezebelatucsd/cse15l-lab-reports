@@ -17,7 +17,6 @@
 <img width="1046" alt="Screen Shot 2022-06-10 at 6 38 48 PM" src="https://user-images.githubusercontent.com/103277481/173167791-4c530c58-cb93-4f18-9c6a-491fccd6373a.png">
 * THEIR ouput according to running 1:
 <img width="800" alt="Screen Shot 2022-06-10 at 6 49 55 PM" src="https://user-images.githubusercontent.com/103277481/173168080-f0a20663-d1ef-41fe-a50c-78e0fc63584f.png">
-### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
 
