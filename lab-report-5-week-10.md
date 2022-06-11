@@ -5,6 +5,7 @@
 
 > vimdiff
 <img width="1380" alt="Screen Shot 2022-06-05 at 9 59 18 PM" src="https://user-images.githubusercontent.com/103277481/172097650-d8ca7c73-f769-4465-8417-e7f4d2ad5f78.png">
+
 ## Test File 1: 201.md
 
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
@@ -26,14 +27,19 @@
 
 ## Test File 2: 194.md
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/194.md)
+
+
 ### Describes which implementation is correct
+
 > Both implementations are incorrect (in the above screenshot, on 201 md). 
 ### Provides correct description of the bug
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
+
+
 ### Provides code snippet that needs to be changed
+
 >Line 18 is where the error is being pointed to but it is likely before that. (THEIR REPO)
 <img width="812" alt="Screen Shot 2022-06-10 at 7 22 25 PM" src="https://user-images.githubusercontent.com/103277481/173169035-e1c3cdff-28a1-4295-a80f-dadc6d2a4da6.png">
-
 
 * My ouput according to preview 2:
 <img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
@@ -42,7 +48,7 @@
 * THEIR ouput according to running 2:
 <img width="797" alt="Screen Shot 2022-06-10 at 6 50 32 PM" src="https://user-images.githubusercontent.com/103277481/173168098-11478ab8-364e-4081-b892-3a69de9fc500.png">
 
-## OLD LAB REPORT
+##  ---------- OLD LAB REPORT ----------
 
 ## How you found the tests with different results (Did you use vimdiff on the results of running a bash for loop? Did you search through manually? Did you use some other programmatic idea?)
 > vimdiff
