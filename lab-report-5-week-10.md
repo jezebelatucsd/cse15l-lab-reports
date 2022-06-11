@@ -5,7 +5,7 @@
 > answer: other repo [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ### Describes which implementation is correct
-
+> Both implementations are incorrect (in the above screenshot, on l201 md). The correct output should look like this: [ti\*tle], because markdown shows this: [foo](/bar\* "ti\*tle").
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
