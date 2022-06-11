@@ -1,14 +1,19 @@
 # Lab Report 5 by Jezebel Yangari
 # Note: I completeed this to the best of my ability, but I have noticed that fellow students with similar submissions to me have more points. I just hope that my grade in the class does not drop by virtue of which tutor/ TA I get that day.
+
+* I searched through the results manually in order to find the different outputs.
+
 > vimdiff
 <img width="1380" alt="Screen Shot 2022-06-05 at 9 59 18 PM" src="https://user-images.githubusercontent.com/103277481/172097650-d8ca7c73-f769-4465-8417-e7f4d2ad5f78.png">
 ## Test File 1: 201.md
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ### Describes which implementation is correct
-> Both implementations are incorrect (in the above screenshot, on 201 md). The correct output should look like this: [ti\*tle], because markdown shows this: [foo](/bar\* "ti\*tle").
-
+> Both implementations are incorrect (in the above screenshot, on 201 md). 
+* My ouput according to preview:
 <img width="1144" alt="Screen Shot 2022-06-10 at 6 16 50 PM" src="https://user-images.githubusercontent.com/103277481/173167081-2bd54fae-403a-47d8-bd27-68dcbce2025b.png">
+* My ouput according to running the file 1:
+<img width="1046" alt="Screen Shot 2022-06-10 at 6 38 48 PM" src="https://user-images.githubusercontent.com/103277481/173167791-4c530c58-cb93-4f18-9c6a-491fccd6373a.png">
 
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
@@ -20,8 +25,11 @@
 ### Shows actual output and the expected output
 ### Provides correct description of the bug
 ### Provides code snippet that needs to be changed
-<img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
 
+* My ouput according to preview 2:
+<img width="1177" alt="Screen Shot 2022-06-10 at 6 20 47 PM" src="https://user-images.githubusercontent.com/103277481/173167189-f1833bf2-456c-4573-afe6-2bd504d2f13e.png">
+* My ouput according to running the file 2:
+<img width="1057" alt="Screen Shot 2022-06-10 at 6 39 52 PM" src="https://user-images.githubusercontent.com/103277481/173167825-dd1298f2-b1e5-4e9b-a658-59b66393014e.png">
 
 ## OLD LAB REPORT
 
