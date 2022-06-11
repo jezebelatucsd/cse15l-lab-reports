@@ -11,7 +11,7 @@
 > other repo to this test ----> [Link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md)
 
 ### Describes which implementation is correct
-> Both implementations are incorrect (in the above screenshot, on 201 md). 
+> Both implementations are incorrect (in the above screenshot, on 201 md). They do not account for input variety.
 * My ouput according to preview 1:
 <img width="1144" alt="Screen Shot 2022-06-10 at 6 16 50 PM" src="https://user-images.githubusercontent.com/103277481/173167081-2bd54fae-403a-47d8-bd27-68dcbce2025b.png">
 * My ouput according to running the file 1:
@@ -38,7 +38,7 @@
 
 ### Describes which implementation is correct
 
-> Both implementations are incorrect (in the above screenshot, on 201 md). 
+> Both implementations are incorrect (in the above screenshot, on 201 md). They do not account for input variety.
 ### Provides correct description of the bug
 * The program is trying to access elements that do no exist and/or have not been account for. This is demonstrated by the string index out of range exception.
 ### Correct output 
